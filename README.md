@@ -21,6 +21,3 @@ I have worked across the entire stack and in various verticals, but I've listed 
 #### Languages
 | JavaScript :star: | TypeScript :star: | Ruby :star: | Python | Go |
 
-
-#### Featured Project
-
