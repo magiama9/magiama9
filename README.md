@@ -1,16 +1,26 @@
-### Hi there 👋
+### 👋 Hi, I'm Sam! I'm an experienced full-stack engineer working to build beautiful, performant applications for the modern web. I especially love working with and for startups of all sizes! You can find me on [LinkedIn](https://www.linkedin.com/in/sam-randels) 📫
 
-<!--
-**magiama9/magiama9** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+#### Tech
 
-Here are some ideas to get you started:
+I have worked across the entire stack and in various verticals, but I've listed a smattering of things below that I have experience in, with a :star: next to the things I consider myself an expert in.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### Back End | DB
+**• Frameworks & Routing:** | Node :star: | Ruby on Rails :star: | Express :star: | Fastify :star: |\
+**• Databases:** | Postgres :star: | MongoDB :star: | MySql
+
+#### Front End
+**• Frameworks** | React :star: | Next :star: | Vue |\
+**• Styling:** | CSS :star: | Tailwind :star: | Sass\
+**• Design:** | Sketch | Figma |
+
+#### Dev Ops | Cloud | Testing
+**• Cloud:** | AWS :star: | Google Cloud |\
+**• Containerization:** | Docker :star: | Kubernetes |\
+**• Testing:** | Playwright :star: | Jest :star: | Rspec :star: |
+
+#### Languages
+| JavaScript :star: | TypeScript :star: | Ruby :star: | Python | Go |
+
+
+#### Featured Project
+
